@@ -1,0 +1,11 @@
+1.Describe Blocks
+Your tests will exist in a describe block. This block takes two arguments. The first is a description of what you are testing. The second is a callback function for your actually tests within that block
+
+
+1.IT Blocks
+Within your describe block, you will also have it blocks. It blocks will be single tests within an overall test file. The API for it() is the same as describe. The first argument is the title of an individual test, and the second argument is a callback function containing your test code
+
+
+
+
+
